@@ -3,6 +3,11 @@ A list of technologies that I have played with...
 
 At some point I realized that I have looked at so much tech, that sometimes I don't even remember that I played with it. Thus, here an attempt to at least take some notes:
 
+## August 2025
+
+- [Resemblyzer](https://github.com/resemble-ai/Resemblyzer) and [ECAPA-TDNN](https://github.com/TaoRuijie/ECAPA-TDNN) for assessing speaker similarity
+- [WandB](https://wandb.ai/site/) for hosting model learning graphs
+
 ## July 2025
 
 - [vLLM](https://github.com/vllm-project/vllm) - I explored running vLLM when I investigated Voxtral STT.
