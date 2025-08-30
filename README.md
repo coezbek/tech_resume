@@ -7,6 +7,7 @@ At some point I realized that I have looked at so much tech, that sometimes I do
 
 - [Resemblyzer](https://github.com/resemble-ai/Resemblyzer) and [ECAPA-TDNN](https://github.com/TaoRuijie/ECAPA-TDNN) for assessing speaker similarity
 - [WandB](https://wandb.ai/site/) for hosting model learning graphs
+- [rv](https://github.com/spinel-coop/rv) - new Ruby version manager with the goal to replace rvm, bundler, etc. written in Rust. I contributed a number of patches: https://github.com/spinel-coop/rv/pull/61, https://github.com/spinel-coop/rv/pull/68
 
 ## July 2025
 
