@@ -6,6 +6,7 @@ At some point I realized that I have looked at so much tech, that sometimes I do
 ## September 2025
 
 - [ClearML](https://clear.ml/) Another monitoring platform like Wandb.
+- [IndexTTS 2](https://github.com/index-tts/index-tts) A TTS with zero-shot voice cloning and emotion steering.
 
 ## August 2025
 
