@@ -10,6 +10,7 @@ At some point I realized that I have looked at so much tech, that sometimes I do
   - [My pull request](https://github.com/index-tts/index-tts/pulls?q=author%3Acoezbek) (some fixes for the Tokenizer)
 - [Runpod](https://www.runpod.io/) GPU hosting serverless + pods
   - My little helpers for Runpod: https://github.com/coezbek/runpod-utils/blob/main/README.md
+- [Qwen3-Omni](https://github.com/QwenLM/Qwen3-Omni) - Update of Omni family of Audio/Video/Text models
 
 ## August 2025
 
