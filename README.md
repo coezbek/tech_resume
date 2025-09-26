@@ -7,6 +7,9 @@ At some point I realized that I have looked at so much tech, that sometimes I do
 
 - [ClearML](https://clear.ml/) Another monitoring platform like Wandb.
 - [IndexTTS 2](https://github.com/index-tts/index-tts) A TTS with zero-shot voice cloning and emotion steering.
+  - [My pull request](https://github.com/index-tts/index-tts/pulls?q=author%3Acoezbek) (some fixes for the Tokenizer)
+- [Runpod](https://www.runpod.io/) GPU hosting serverless + pods
+  - My little helpers for Runpod: https://github.com/coezbek/runpod-utils/blob/main/README.md
 
 ## August 2025
 
